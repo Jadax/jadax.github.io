@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Poole
+tagline:          The Jekyll Butler
+url:              http://getpoole.com
+paginate:         1
+baseurl:          /
+author:
+  name:           Tushant Sharma
+  url:            https://twitter.com/SharmaTushant
+  email:          sharma.tushant@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/poole/poole
