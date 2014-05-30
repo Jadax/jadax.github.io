@@ -1,13 +1,10 @@
-# Dependencies
 markdown:         rdiscount
 pygments:         true
 rdiscount:
   extensions: [smart]
 
-# Permalinks
 permalink:        pretty
 
-# Setup
 name: Tushant Sharma
 url: http://www.tushantsharma.com
 description: Electrical and Electronics graduate from Aston University, United Kingdom.
@@ -15,31 +12,17 @@ twitter: SharmaTushant
 github: Jadax
 gravatar_url: http://www.gravatar.com/avatar/930e638d1fddb2f7e193798875dc7489.png
 
-author:
-  name:           Tushant Sharma
-  url:            https://twitter.com/SharmaTushant
-  email:          sharma.tushant@gmail.com
-
 disqus_short_name: Jadax
 disqus_show_comment_count: false
 
-  
-# Custom vars
-version:          1.0.0
-github:
-  repo:           https://github.com/Jadax/jadax.github.io
+googleplus_user: 110638987392974757846
+googleplus_hidden: false
 
-# This is the list of pages to incldue in the header of the website.
 pages_list:       
   Blog: '/archive/'
   About: '/about/'
   Academic: '/academic/'
   Projects: '/projects/'
   Feed: '/atom.xml'
-
-# Allow URL Redirects: 
-#  * https://help.github.com/articles/redirects-on-github-pages
-gems:
-  - jekyll-redirect-from
   
 google_analytics_tracking_id: UA-51514707-1
