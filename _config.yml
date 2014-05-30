@@ -31,9 +31,13 @@ github:
 
 # This is the list of pages to incldue in the header of the website.
 pages_list:       
+  Blog: '/blog/'
   About: '/about/'
+  Academic: '/academic/'
+  Projects: '/projects/'
   Archive: '/archive/'
   Feed: '/atom.xml'
+
 # Allow URL Redirects: 
 #  * https://help.github.com/articles/redirects-on-github-pages
 gems:
