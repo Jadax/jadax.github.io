@@ -24,7 +24,7 @@ github:
 # This is the list of pages to incldue in the header of the website.
 pages_list:       
   About Me: '/about/'
-  Academic Profile: '/academic/'
+  Profile: '/academic/'
   Archives: '/archive/'
   Feed: '/atom.xml'
 
