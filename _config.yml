@@ -25,6 +25,7 @@ github:
 pages_list:       
   About Me: '/about/'
   Profile: '/academic/'
+  Projects: '/projects/'
   Archives: '/archive/'
   Feed: '/atom.xml'
 
