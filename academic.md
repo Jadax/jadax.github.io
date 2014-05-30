@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Academic
+title: Academic Profile
 ---
 
 Class X
 Colombo International School, Sri Lanka
 Edexcel General Certificate of Education (O-Level)
-Biology [A], Human Biology [A], Chemistry [B], English Language [B], Geography [B], Mathematics [C], Physics 
-[A], Hindi [C]
+Biology [A], Human Biology [A], Chemistry [B], English Language [B], Geography [B], Mathematics [C], Physics [A], Hindi [C]
 
 Edexcel General Certificate of Secondary Education
 Information Technology and Communication Technology [A]
