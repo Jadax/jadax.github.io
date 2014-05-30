@@ -1,22 +1,29 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         rdiscount
 pygments:         true
+rdiscount:
+  extensions: [smart]
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            Tushant Sharma
-tagline:          'Electronics, Consulting, Blogging, Tweets, Football'
-url:              http://www.tushantsharma.com
-shorturl:         tushantsharma.com
-paginate:         1
-baseurl:          /
+name: Tushant Sharma
+url: http://www.tushantsharma.com
+description: Electrical and Electronics graduate from Aston University, United Kingdom.
+twitter: SharmaTushant
+github: Jadax
+gravatar_url: http://www.gravatar.com/avatar/930e638d1fddb2f7e193798875dc7489.png
+
 author:
   name:           Tushant Sharma
   url:            https://twitter.com/SharmaTushant
   email:          sharma.tushant@gmail.com
 
+disqus_short_name: leostatic
+disqus_show_comment_count: false
+
+  
 # Custom vars
 version:          1.0.0
 github:
@@ -33,3 +40,5 @@ pages_list:
 #  * https://help.github.com/articles/redirects-on-github-pages
 gems:
   - jekyll-redirect-from
+  
+google_analytics_tracking_id: UA-51514707-1
