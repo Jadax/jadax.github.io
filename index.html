@@ -1,37 +1,74 @@
 ---
-layout: default
-title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <title>
+    {{ site.name }}
+  </title>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+  <meta name="author" content="{{ site.name }}" />
+  <meta name="description" content="{{ site.description }}" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <link href="/favicon.png" rel="shortcut icon">
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+  <link rel="alternate" type="application/rss+xml" href="/atom.xml" />
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
+  <link rel="stylesheet" href="/css/pure.css" type="text/css" />
+  <link rel="stylesheet" href="/css/base.css" type="text/css" media="screen, projection" />
+  <script type="text/javascript" src="/js/application.js"></script>
+  <meta name="google-site-verification" content="re_t7ja4IZq6BYH_gOXHam-1xYP0BMy5qiUygvzYW6U" />
+</head>
+
+<body>
+  
+  <section id="homepage">
+    
+    <section class="main">
+      <div id="logo"></div>
+      <!-- Logo made by Chetty Arun http://fb.com/chetty.arun.nani He is awesome. -->
+      <h1 class="name">
+        {{ site.name }}
+      </h1>
+      <h3>
+        Aston University graduate
+      </h3>
+    </section>
+
+    <section class="meta">
+      <div class="row">
+          <a href="/blog">BLOG</a>
+          <a href="/about">ABOUT</a>
+          <a href="/projects">PROJECTS</a>
+      </div>
+      <div class="row">
+          <a href="">TUMBLR</a>
+          <a href="https://twitter.com/SharmaTushant">TWITTER</a>
+      </div>
+    </section>
+
+  </section>
+
+  {% if site.googleplus_user %}
+    <a class="google" href="https://plus.google.com/{{ site.googleplus_user }}?rel=author" title="Google+" style="display: none;">Google+</a>
   {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
+
+  {% if site.google_analytics_tracking_id %}
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', '{{ site.google_analytics_tracking_id }}']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
   {% endif %}
-</div>
+  
+</body>
+
+</html>
