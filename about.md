@@ -3,7 +3,10 @@ layout: page
 title: About
 ---
 
-![Here I am.](/assets/144152  a.jpg)
+<p align="center">
+  <img/> ![Here I am.](/assets/144152  a.jpg) 
+  </img>
+</p>
 
 I am an Aston University graduate who is hoping joining consulting 
 down the line.
