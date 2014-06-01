@@ -4,7 +4,7 @@ title: About
 ---
 
 <p align="center">
-  <img/> ![Here I am.](/assets/144152  a.jpg) 
+  <img/>(/assets/144152  a.jpg) 
   </img>
 </p>
 
