@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
+![Here I am.](/assets/144152  a.jpg)
+
 I am an Aston University graduate who is hoping joining consulting 
 down the line.
 
