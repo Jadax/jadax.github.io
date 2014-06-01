@@ -1,3 +1,8 @@
+---
+layout: page
+title: About Me
+---
+
 I am an Aston University graduate who is hoping joining consulting down the line.
 
 I am from [Delhi](http://en.wikipedia.org/wiki/Delhi), India. 
