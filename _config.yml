@@ -29,7 +29,7 @@ github:
 # This is the list of pages to incldue in the header of the website.
 pages_list:       
   About: '/about/'
-  Blog: '/archive/'
+  Archive: '/archive/'
   Academic: '/academic/'
   Projects: '/projects/'
   Feed: '/atom.xml'
