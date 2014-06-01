@@ -4,8 +4,7 @@ title: About
 ---
 
 <p align="center">
-  <img/>(/assets/144152  a.jpg) 
-  </img>
+  <img src="https://github.com/Jadax/jadax.github.io/blob/master/assets/144152%20%20a.jpg?raw=true"/> 
 </p>
 
 I am an Aston University graduate who is hoping joining consulting 
