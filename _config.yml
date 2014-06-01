@@ -12,7 +12,7 @@ github: Jadax
 gravatar_url: http://www.gravatar.com/avatar/930e638d1fddb2f7e193798875dc7489
 
 pages_list:       
-  Blog: 'archive/'
+  Blog: '/archive/'
   About: '/about/'
   Academic: '/academic/'
   Projects: '/projects/'
