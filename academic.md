@@ -5,8 +5,7 @@ title: Academics
 
 ## Undergraduate Studies
 
-**Electrical and Electronics Engineering**
-Aston University, United Kingdom
+Aston University, United Kingdom: **Electrical and Electronics Engineering**
 *Classification - 2:2 (Honours)*
 
 ### Courses
@@ -71,7 +70,7 @@ ME2033: Innovation Management
 
 #### Class X
 
-GCE O-Level (Colombo International School, Sri Lanka)
+Colombo International School, Sri Lanka: GCE O-Level 
 
 |          Subject | Grade |
 | ---------------- | ----- |
@@ -87,7 +86,7 @@ GCE O-Level (Colombo International School, Sri Lanka)
 
 #### Class XII
 
-GCE A-Level (Colombo International School, Sri Lanka)
+Colombo International School, Sri Lanka: GCE A-Level 
 
 |     Subject | Grade |
 | ----------- | ----- |
