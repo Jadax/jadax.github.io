@@ -3,72 +3,92 @@ layout: page
 title: Academics
 ---
 
-Class X
+#### Class X
+
 Colombo International School, Sri Lanka
 Edexcel General Certificate of Education (GCE O-Level)
-Subject          | Grade
----------------- | ------
-Biology          | A
-Human Biology    | A
-Physics          | A
-Chemistry        | B
-English Language | B
-Geography        | B
-Mathematics      | C
-Hindi            | C
+
+|          Subject | Grade |
+| ---------------- | ----- |
+|          Biology | 	 A |
+|    Human Biology | 	 A | 
+|          Physics | 	 A |
+|        Chemistry | 	 B |
+| English Language | 	 B |
+|        Geography | 	 B |
+|      Mathematics | 	 C |
+|            Hindi | 	 C |
 
 Edexcel General Certificate of Secondary Education (GCSE O-Level)
 Information Technology and Communication Technology [A]
 
-Class XII
+#### Class XII
+
 Colombo International School, Sri Lanka
 Edexcel General Certificate of Education (A-Level)
-Subject     | Grade
------------ | ------
-Biology     | A
-Mathematics | B
-Physics     | B
-Chemistry   | C
 
-Undergraduate Studies
-Electrical and Electronics Engineering
+|     Subject | Grade |
+| ----------- | ----- |
+|     Biology | 	A |
+| Mathematics | 	B |
+|     Physics | 	B |
+|   Chemistry | 	C |
+
+## Undergraduate Studies
+
+**Electrical and Electronics Engineering**
 Aston University, United Kingdom
-Classification - 2:2 (Honours)
+*Classification - 2:2 (Honours)*
 
-Courses
-Engineering Mathematics
-*(AM11EM) Transition Mathematics for Engineers
-*(AM12EM) Mathematics for First Year Engineers
+### Courses
 
-Programming Languages
-*(CS1310) Java Programming Foundations
-*(CS1410) Java Program Development
+**Engineering Mathematics**
+```python
+AM11EM: Transition Mathematics for Engineers
+AM12EM: Mathematics for First Year Engineers
+```
 
-Electronic Systems
-*(EE2DPS) Digital and Programmable Electronic Systems
-*(EE2EDP) Electronics Group Design Project
-*(EE2ESA) Electronic Systems Analysis
-*(EE3DSD) Digital Systems Design
-*(EE3PMT) Project Management
-*(EE3IFP) Individual Final Year Project
+**Programming Languages**
+```python
+CS1310: Java Programming Foundations
+CS1410: Java Program Development
+```
 
-Network Communications
-*(EE1DAE) Digital & Analogue Electronics
-*(EE2CSE) Communications Systems Engineering
-*(EE3INW) Internetworking
-*(EE3RSY) Radio Systems and Personal Communications Systems
-*(EE3NPD) Networked Product Development
-*(EE3SPR) Signal Processing
+**Electronic Systems**
+```python
+EE2DPS: Digital and Programmable Electronic Systems
+EE2EDP: Electronics Group Design Project
+EE2ESA: Electronic Systems Analysis
+EE3DSD: Digital Systems Design
+EE3PMT: Project Management
+EE3IFP: Individual Final Year Project
+```
 
-Electrical Systems
-*(EE1ESE) Electrical Systems Engineering
-*(EE2ESE) Electrical Systems Engineering
+**Network Communications**
+```python
+EE1DAE: Digital & Analogue Electronics
+EE2CSE: Communications Systems Engineering
+EE3INW: Internetworking
+EE3RSY: Radio Systems and Personal Communications Systems
+EE3NPD: Networked Product Development
+EE3SPR: Signal Processing
+```
 
-Data Processing
-*(EE2INS) Instrumentation
+**Electrical Systems**
+```python
+EE1ESE: Electrical Systems Engineering
+EE2ESE: Electrical Systems Engineering
+```
 
-Business Management
-*(EE1PCS) Practical and Communication Skills
-*(SE1500) Introduction to Business Management
-*(EE2PST) The Professional Engineer
-*(ME2033) Innovation Management
+**Data Processing**
+```python
+EE2INS: Instrumentation
+```
+
+**Business Management**
+```python
+EE1PCS: Practical and Communication Skills
+SE1500: Introduction to Business Management
+EE2PST: The Professional Engineer
+ME2033: Innovation Management
+```
