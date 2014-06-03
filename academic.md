@@ -3,35 +3,6 @@ layout: page
 title: Academics
 ---
 
-#### Class X
-
-GCE O-Level (Colombo International School, Sri Lanka)
-
-|          Subject | Grade |
-| ---------------- | ----- |
-|          Biology | 	 A |
-|    Human Biology | 	 A | 
-|          Physics | 	 A |
-|        Chemistry | 	 B |
-| English Language | 	 B |
-|        Geography | 	 B |
-|      Mathematics | 	 C |
-|            Hindi | 	 C |
-
-GCSE O-Level (Colombo International School, Sri Lanka)
-Information Technology and Communication Technology [A]
-
-#### Class XII
-
-GCE A-Level (Colombo International School, Sri Lanka)
-
-|     Subject | Grade |
-| ----------- | ----- |
-|     Biology | 	A |
-| Mathematics | 	B |
-|     Physics | 	B |
-|   Chemistry | 	C |
-
 ## Undergraduate Studies
 
 **Electrical and Electronics Engineering**
@@ -97,3 +68,30 @@ SE1500: Introduction to Business Management
 EE2PST: The Professional Engineer
 ME2033: Innovation Management
 ```
+
+#### Class X
+
+GCE O-Level (Colombo International School, Sri Lanka)
+
+|          Subject | Grade |
+| ---------------- | ----- |
+|          Biology | 	 A |
+|    Human Biology | 	 A | 
+|          Physics | 	 A |
+|        Chemistry | 	 B |
+| English Language | 	 B |
+|        Geography | 	 B |
+|      Mathematics | 	 C |
+|            Hindi | 	 C |
+| 		ICT (GCSE) |	 A |
+
+#### Class XII
+
+GCE A-Level (Colombo International School, Sri Lanka)
+
+|     Subject | Grade |
+| ----------- | ----- |
+|     Biology | 	A |
+| Mathematics | 	B |
+|     Physics | 	B |
+|   Chemistry | 	C |
