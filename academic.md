@@ -5,8 +5,7 @@ title: Academics
 
 #### Class X
 
-Colombo International School, Sri Lanka
-Edexcel General Certificate of Education (GCE O-Level)
+GCE O-Level (Colombo International School, Sri Lanka)
 
 |          Subject | Grade |
 | ---------------- | ----- |
@@ -19,13 +18,12 @@ Edexcel General Certificate of Education (GCE O-Level)
 |      Mathematics | 	 C |
 |            Hindi | 	 C |
 
-Edexcel General Certificate of Secondary Education (GCSE O-Level)
+GCSE O-Level (Colombo International School, Sri Lanka)
 Information Technology and Communication Technology [A]
 
 #### Class XII
 
-Colombo International School, Sri Lanka
-Edexcel General Certificate of Education (A-Level)
+GCE A-Level (Colombo International School, Sri Lanka)
 
 |     Subject | Grade |
 | ----------- | ----- |
@@ -43,19 +41,22 @@ Aston University, United Kingdom
 ### Courses
 
 **Engineering Mathematics**
-```python
+
+```
 AM11EM: Transition Mathematics for Engineers
 AM12EM: Mathematics for First Year Engineers
 ```
 
 **Programming Languages**
-```python
+
+```
 CS1310: Java Programming Foundations
 CS1410: Java Program Development
 ```
 
 **Electronic Systems**
-```python
+
+```
 EE2DPS: Digital and Programmable Electronic Systems
 EE2EDP: Electronics Group Design Project
 EE2ESA: Electronic Systems Analysis
@@ -65,7 +66,8 @@ EE3IFP: Individual Final Year Project
 ```
 
 **Network Communications**
-```python
+
+```
 EE1DAE: Digital & Analogue Electronics
 EE2CSE: Communications Systems Engineering
 EE3INW: Internetworking
@@ -75,18 +77,21 @@ EE3SPR: Signal Processing
 ```
 
 **Electrical Systems**
-```python
+
+```
 EE1ESE: Electrical Systems Engineering
 EE2ESE: Electrical Systems Engineering
 ```
 
 **Data Processing**
-```python
+
+```
 EE2INS: Instrumentation
 ```
 
 **Business Management**
-```python
+
+```
 EE1PCS: Practical and Communication Skills
 SE1500: Introduction to Business Management
 EE2PST: The Professional Engineer
