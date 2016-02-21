@@ -6,7 +6,7 @@ title: Academics
 ## Undergraduate Studies
 
 Aston University, United Kingdom: **Electrical and Electronics Engineering**
-*Classification - 2:2 (Honours)*
+
 
 ### Courses
 
